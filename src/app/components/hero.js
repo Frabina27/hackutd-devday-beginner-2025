@@ -6,7 +6,7 @@ function Hero() {
         <div className="max-w-4xl mx-auto flex justify-center">
           <div className="text-left">
             <h1 className="text-4xl md:text-5xl lg:text-6xl text-gray-800 leading-0.5">
-              Maxing our GPA <span className="text-black font-bold">GPA</span>
+              Maxing our <span className="text-black font-bold">GPA</span>
             </h1>
 
             <h2 className="text-4xl md:text-5xl lg:text-6xl text-gray-800 mt-2">
